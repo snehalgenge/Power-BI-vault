@@ -1,16 +1,16 @@
-# Project 1 :
-## CUSTOMER DEMOGRAPHICS AND BEHAVIORAL ANALYSIS
+## Project 1 :
+### CUSTOMER DEMOGRAPHICS AND BEHAVIORAL ANALYSIS
 ### Data
 The dataset comprises structured tabular customer attributes, explicitly capturing consumer parameters.
 
-### Objective
+#### Objective
 To engineer an enterprise-grade Power BI dashboard that converts raw retail customer profiles into a structured digital behavioral ledger.
 
 The project focuses on isolating correlations between spending thresholds, age demographics, and user satisfaction metrics to deliver actionable intelligence for retention strategy.
 
 By mapping purchasing patterns against regional baselines, the system uncovers hidden opportunities for targeted cross-selling and promotional campaigns.
 
-### Description
+#### Description
 1.Data Analysis -This data analytics project performs a comprehensive behavioral audit of customer transaction records to identify underlying purchasing patterns.
 
 2.By profiling variable combinations, the solution translates dense data matrices into high-value visual insights.
@@ -20,7 +20,7 @@ By mapping purchasing patterns against regional baselines, the system uncovers h
 4.Actionable Insights - Ultimately, the dashboard eliminates data noise to pinpoint the precise financial and behavioral metrics that maximize customer lifetime value. 
 It provides stakeholders with an intuitive interface to monitor seasonal changes in consumer habits and lifetime value trends over time.
 
-### Tools
+#### Tools
 • Power BI Desktop: It converts disjointed retail tables into cohesive, highly interactive canvas spaces.
 The tool allows for the seamless deployment of responsive matrix layouts that update immediately based on cross-filtering.
 
@@ -34,17 +34,17 @@ These expressions allow the reporting architecture to calculate complex running 
 
 ---
 
-# Project 2 :
-## ASIA CUP (1984–2023): THE CONTINENTAL LEDGER
-### Data
+## Project 2 :
+### ASIA CUP (1984–2023): THE CONTINENTAL LEDGER
+#### Data
 The dataset comprises historical match records, individual player performance statistics, dismissal logs, and venue metrics across all official ODI andT20I Asia Cup tournaments held between 1984 and 2022.
 
-### Objective -
+#### Objective -
 To engineer an enterprise-grade Power BI dashboard that converts 38 years of historical tournament data into a structured digital ledger.
 
 The project focuses on tracking match variables, venue behavioral patterns, and player micro-metrics to deliver data-driven insights into subcontinental cricket dominance.
 
-### Description-
+#### Description-
 1.This data analytics project performs a comprehensive historical audit of Asia Cup cricket data across its entire lifecycle from 1984 to 2022. 
 
 2.Data Analysis - By ingesting, cleansing, and modeling multi-era match records,
@@ -52,7 +52,7 @@ the solution translates raw performance statistics into high-value visual intell
 
 3.DAX expressions - It utilizes dynamic DAX expressions, strategic dimension slicing, and intentional page clustering to map scoring velocities, tracking trends, and head-to-head competitive rivalries. Ultimately, the dashboard eliminates data noise to pinpoint the precise statistical differentiators that drive match outcomes and tournament championships.
 
-### Tools
+#### Tools
 • Power BI Desktop: Utilised as the primary visualization engine to handle multi-page storytelling, create smooth bookmark-driven user journeys,
 and render complex visualizations like gauges and custom matrices.
 
@@ -64,17 +64,17 @@ update instantly based on user-selected slicers.
 
 ---
 
-# Project 3 :
-## SUPERMARKER SALES ANALYSIS AND FORCAST
-### Data
+## Project 3 :
+### SUPERMARKET SALES ANALYSIS AND FORCAST
+#### Data
 Sales_Datasests
 
-### Objective -
+#### Objective -
 To contribute to the success of the business by utilizing
 data analysis techniques, specifically focusing on time-series analysis
 to provide valuable insight and accurate sales forecasting.
 
-### Description-
+#### Description-
 The objective can be broken down into the following categories - 
 Dashboard Creation -  
 1.Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive 
@@ -88,7 +88,7 @@ strategy through visualisation.
 4. Actionable Insights and Recommendations - End goal is to provide insights and actionable information to drive strategic decisions and 
 support the gaol of the company for growth, efficiency and customer satisfaction.
 
-### Tools
+#### Tools
 • Power BI Desktop: Dashboard creation.
 
 • Power Query: Critical for the initial Extract, Transform, Load (ETL) phase to clean entries.
@@ -96,8 +96,6 @@ support the gaol of the company for growth, efficiency and customer satisfaction
 • DAX (Data Analysis Expressions): Crucial for engineering custom dynamic measures,
 these exprssions allow the reporting architecture to calculate complex running totals and period-over-period variances efficiently.
  
-
-
 ---
 
 #
