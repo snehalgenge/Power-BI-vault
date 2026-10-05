@@ -98,5 +98,34 @@ these exprssions allow the reporting architecture to calculate complex running t
  
 ---
 
-#
 
+## Project 4 :
+### Income_Statement_Analysis
+#### Data
+Income_Statement_Datasets
+
+#### Objective -
+To contribute to the success of the business by utilizing
+data analysis techniques, specifically focusing on time-series analysis
+to provide valuable insight and revenue trends
+
+#### Description-
+The objective can be broken down into the following categories - 
+Dashboard Creation -  
+1.Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive 
+visuals and filtering capabilities to allow users to explore the data at various levels of granularity.
+
+2. Data Analysis - Provide valuable insights to find month on month revenue range 
+
+3. Growth Margin - Comparing previous year data to current year data to find growth rate
+ 
+4. Actionable Insights and Recommendations - End goal is to provide insights and actionable information of income analysis to provide growth rate, profit margin, trends of revenue.
+
+#### Tools   
+• Power BI Desktop: Dashboard creation.
+
+• Power Query: Critical for the initial Extract, Transform, Load (ETL) phase to clean entries.
+
+• DAX (Data Analysis Expressions): Crucial for engineering custom dynamic measures,
+these exprssions allow the reporting architecture to calculate complex running totals and period-over-period variances efficiently.
+ 
